@@ -6,7 +6,6 @@ This project performs **Exploratory Data Analysis (EDA)**, **data cleaning**, an
 The analysis is implemented in a Jupyter notebook (`hotel_bookings_tutorial.ipynb`) using Python and libraries like Pandas, Matplotlib, Seaborn, and Scikit-learn. The project follows three phases: EDA, data cleaning, and preprocessing, ensuring a clean dataset ready for machine learning tasks.
 
 ## Dataset
-- **Source**: [Hotel Bookings Dataset](https://raw.githubusercontent.com/MaxJoas/hotel_bookings/main/hotel_bookings.csv)
 - **Description**: Contains 119,390 bookings with 32 columns, including:
   - `hotel`: Type of hotel (City or Resort).
   - `is_canceled`: Target variable (0 = not canceled, 1 = canceled).
