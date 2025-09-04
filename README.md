@@ -39,7 +39,7 @@ The analysis is implemented in a Jupyter notebook (`hotel_bookings_tutorial.ipyn
 To run the notebook, install the following Python packages:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
+```
 ### How to Run
 
 Clone this repository or download the notebook.
