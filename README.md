@@ -40,7 +40,7 @@ To run the notebook, install the following Python packages:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-How to Run
+### How to Run
 
 Clone this repository or download the notebook.
 Ensure the required libraries are installed.
